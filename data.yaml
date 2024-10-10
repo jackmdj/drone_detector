@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 3
+names: ['vehicle', 'human', 'drone']
+
+roboflow:
+  workspace: korki14
+  project: drones-srdze
+  version: 1
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/korki14/drones-srdze/dataset/1
