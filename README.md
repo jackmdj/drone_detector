@@ -52,10 +52,10 @@ The performance of the model was evaluated using precision, recall, and mean Ave
 <a name="visual-results"></a>
 
 ### **Before Detection:**
-![Detected Image](./example.jpg)
+![Detected Image](./runs/detect/train5/example.jpg)
 
 ### **After Detection:**
-![Detected Image](./example.PNG)
+![Detected Image](./runs/detect/train5/example.PNG)
 
 The model successfully detects multiple objects in the thermal image, distinguishing between drones, humans, and vehicles.
 
