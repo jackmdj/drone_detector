@@ -13,9 +13,9 @@ The model has been developed with defense and security applications in mind, whe
 5. [Evaluation Curves](#evaluation-curves)
 6. [Potential Capabilities](#potential-capabilities)
 
-## **[Dataset](https://universe.roboflow.com/korki14/drones-srdze)**
+## **Dataset**
 <a name="dataset"></a>
-The dataset used for this project consists of **150 thermal images** that include various **UAV (Unmanned Aerial Vehicle)** variants, vehicles, and human subjects. The thermal nature of the images allows the model to function in low-light and night-time conditions, making it highly suitable for surveillance applications.
+The [dataset](https://universe.roboflow.com/korki14/drones-srdze) used for this project consists of **150 thermal images** that include various **UAV (Unmanned Aerial Vehicle)** variants, vehicles, and human subjects. The thermal nature of the images allows the model to function in low-light and night-time conditions, making it highly suitable for surveillance applications.
 
 ### Dataset Highlights:
 - **Classes**: `drone`, `vehicle`, `human`
